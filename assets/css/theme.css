@@ -314,13 +314,13 @@ a.contact-btn:hover {
 }
 
 .wlc-title h1 span {
-  color: #08d665;
+  color: #f3993e;
 }
 .wlc-title p {
   font-weight: 400;
   font-size: 18px;
   padding-left: 20px;
-  border-left: 3px solid #08d665;
+  border-left: 3px solid #f3993e;
   line-height: 28px;
   margin: 40px 0;
 }
@@ -354,7 +354,7 @@ a.contact-btn:hover {
   position: relative;
   z-index: 2;
   margin: 7px 0;
-  border: 1px solid #08d665;
+  border: 3px solid black;
   transition: all 0.3s;
   overflow: hidden;
 }
@@ -368,14 +368,14 @@ a.contact-btn:hover {
   text-align: center;
   top: 50%;
   margin-top: -13px;
-  color: #08d665;
+  color: black;
   font-size: 12px;
   transition: all 0.3s;
 }
 .welcome-carousel .owl-dots > div:hover,
 .welcome-carousel .owl-dots > div.active {
-  background: #08d665;
-  border-color: #08d665;
+  background: #f3993e;
+  border-color: #f3993e;
 }
 .welcome-carousel .owl-dots > div:hover:after,
 .welcome-carousel .owl-dots > div.active:after {
@@ -418,7 +418,7 @@ h1.wlc-filltext {
   background-size: cover;
 }
 .about-img-section1 {
-  background-image: url(../img/about/about1.png);
+  background-image: url(../img/background-image-paint-throw.png);
   background-size: cover;
   background-position: center;
 }
@@ -1766,15 +1766,15 @@ a.up-btn {
   position: fixed;
   bottom: 0;
   right: 10%;
-  background: #08d665;
-  color: #fff;
+  background: #f3993e;
+  color: black;
   height: 60px;
   width: 60px;
   text-align: center;
   line-height: 60px;
   font-size: 30px;
   border-radius: 5px;
-  border: 1px solid #fff;
+  border: 1px solid black;
   z-index: 99;
   visibility: hidden;
   opacity: 0;
